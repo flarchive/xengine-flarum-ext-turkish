@@ -1,8 +1,14 @@
-# xengine/flarum-ext-turkish (Archive)
+# xengine-flarum-ext-turkish (Archive)
 
-> **Read-only archive of released versions of xengine/flarum-ext-turkish.** Not for installation: use [Packagist](https://packagist.org/packages/xengine/flarum-ext-turkish) or the [upstream repository](https://github.com/XEngine/flarum-ext-turkish).
+> **Read-only archive of released versions for bek/flarum-ext-turkish, xengine/flarum-ext-turkish.** Not for installation: use Packagist or the [upstream repository](https://github.com/XEngine/flarum-ext-turkish).
 
-**0** versions archived · Latest: [`1.0`](https://github.com/flarchive/xengine-flarum-ext-turkish/tree/archive/v1.0) · License: `MIT` · Flarum: `^0.1.0-beta.6`
+**0** versions archived
+
+## Linked Packages
+
+This canonical archive repository hosts releases for the following Packagist packages:
+- [`bek/flarum-ext-turkish`](https://packagist.org/packages/bek/flarum-ext-turkish)
+- [`xengine/flarum-ext-turkish`](https://packagist.org/packages/xengine/flarum-ext-turkish)
 
 ## Archived Versions
 
@@ -10,7 +16,10 @@
 |---|---|---|---|
 | — | — | — | — |
 
-Catalog entry: [packages/xengine-flarum-ext-turkish.json](https://github.com/flarchive/archive-index/blob/main/packages/xengine-flarum-ext-turkish.json)
+## Catalog entries
+
+- [`bek/flarum-ext-turkish`](https://github.com/flarchive/archive-index/blob/main/packages/bek-flarum-ext-turkish.json)
+- [`xengine/flarum-ext-turkish`](https://github.com/flarchive/archive-index/blob/main/packages/xengine-flarum-ext-turkish.json)
 
 ## About this archive
 
